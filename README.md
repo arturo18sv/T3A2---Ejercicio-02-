@@ -24,3 +24,6 @@ Realiza una programa que calcule las horas transcurridas entre dos horas de dos 
 | jueves en las horas indicadas.                        |
 +-------------------------------------------------------+
 ~~~
+
+## Etapa 3. Diseño de la solucion
+![](
