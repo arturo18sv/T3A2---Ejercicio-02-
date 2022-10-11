@@ -17,4 +17,10 @@ Realiza una programa que calcule las horas transcurridas entre dos horas de dos 
 +-------------------------------------------------------+
 |     DIFERENCIA DE HORAS ENTRE DOS LAPSOS DE TIEMPO    |
 +-------------------------------------------------------+
-|  Dia inicial: Martes
+|  Dia inicial: Martes       Hora inicial: 8:00 hrs     |
+|  Dia final: Jueves         Hora fin:    10:00 hrs     |
++-------------------------------------------------------+
+| Han transcurido # horas desde el dia martes al dia    |
+| jueves en las horas indicadas.                        |
++-------------------------------------------------------+
+~~~
